@@ -13,7 +13,7 @@ spec:
     app: webserver
     tier: frontend
   type: NodePort
----
+
 apiVersion: apps/v1
 kind: Deployment
 metadata:
